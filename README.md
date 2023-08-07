@@ -2,7 +2,7 @@
 this is honey first repo
 some changes are done
 
-## THis is a subtitle
+## This is a subtitle
 Hi you all!
 
 ## List
@@ -10,3 +10,8 @@ Hi you all!
 1. First
 2. Second
 3. Third
+
+### Unordered List
+- First
+- Second
+- Third
