@@ -18,4 +18,4 @@ Hi you all!
 
 
 ## Link 
-[Spiced Website] (https://www.spiced-academy.com/en)
+[Spiced Web] (https://www.spiced-academy.com/)
